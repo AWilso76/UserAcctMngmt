@@ -61,9 +61,9 @@ Listed all user accounts after removing user "jthur".
 
 # List Users
 
-The first three entries reflect my attempts in creating new users awilso718 and awils, which they failed. 
-I closed PyCharm application, on the desktop I clicked on the PyCharm icon and selected run as administrator, gave permission for the application to make system changes. 
-I was then able to get the script to work on my Windows 10 operating system.
+The first three entries reflect my attempts in creating new users awilso718 and awils,and I failed. 
+I closed the PyCharm application, on the desktop I right clicked on the PyCharm icon and selected run as administrator, and gave permission for the application to make system changes. 
+then script began to work on my Windows 10 operating system.
 
 
 <img width="1000" alt="image" src="https://i.imgur.com/Hj13etH.png">
