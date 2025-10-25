@@ -20,7 +20,12 @@ User lifecycle management is a core part of IT operations.
 This project demonstrates:
 - Automation of repetitive onboarding/offboarding tasks  
 - Basic permission and account control  
-- Logging and auditing of administrative actions  
+- Logging and auditing of administrative actions
+
+## Prerequisites
+- Windows 10 or higher  
+- Python 3.x installed  
+- Run script as **Administrator** to allow system changes  
 
 # Usage
 1. Clone the repository  
