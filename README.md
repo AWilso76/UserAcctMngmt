@@ -30,6 +30,7 @@ This project demonstrates:
 4. Run the script:
    ```bash
    python user_account_manager.py
+5. Select an action from the menu (Create, Delete, Disable, Enable, List Users)
 
 # Example Output
 
@@ -45,8 +46,14 @@ Add bulk import/export via CSV
 
 Include password reset and group management features
 
+#Troubleshooting Note
+
+Initial attempts to create users (awilso718 and awils) were unsuccessful due to insufficient permissions.
+After running PyCharm as Administrator and granting system permissions, the script executed successfully on Windows 10.
+This will be reflected in the "Logs" screenshot.
+
 # Screenshots
----
+
 ## Create User
 
 Created accounts: "jthur" and "awils", this screenshot showcases "awils" account creation.
