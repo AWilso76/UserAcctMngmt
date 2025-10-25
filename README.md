@@ -53,13 +53,13 @@ Deleted user "jthur" in screeshot below.
 
 <img width="1000" alt="image" src="https://i.imgur.com/5JWFsYg.png">
 
-# List Users
+# List Users post account deletion
 
 Listed all user accounts after removing user "jthur".
 
 <img width="1000" alt="image" src="https://i.imgur.com/atFecnv.png">
 
-# List Users
+# Logs example
 
 The first three entries reflect my attempts in creating new users awilso718 and awils,and I failed. 
 I closed the PyCharm application, on the desktop I right clicked on the PyCharm icon and selected run as administrator, and gave permission for the application to make system changes. 
