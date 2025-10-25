@@ -40,11 +40,11 @@ This project demonstrates:
 
 # Future Enhancements
 
-Integrate with Active Directory for domain-wide management
+-Integrate with Active Directory for domain-wide management
 
-Add bulk import/export via CSV
+-Add bulk import/export via CSV
 
-Include password reset and group management features
+-Include password reset and group management features
 
 # Troubleshooting Note
 
