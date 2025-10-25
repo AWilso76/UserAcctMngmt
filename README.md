@@ -1,8 +1,7 @@
 # 🧑‍💻 User Account Management Automation Script
 
 # Overview
-This project automates **local user account management tasks on Windows systems** using Python. It simulates key responsibilities of an 
-**IT Support Specialist / Applications Analyst**, such as creating, disabling, and removing user accounts while maintaining detailed logs for accountability.
+This Python script automates **local user account management tasks on Windows systems**, simulating core responsibilities of an **IT Support Specialist / Applications Analyst**. It allows administrators to efficiently create, disable, enable, delete, and list user accounts while logging all actions for auditing and troubleshooting purposes.
 
 # Features
 - ✅ Create new local user accounts  
