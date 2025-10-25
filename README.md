@@ -90,10 +90,9 @@ Listed all user accounts after removing user "jthur".
 
 <img width="1000" alt="image" src="https://i.imgur.com/atFecnv.png">
 
-## Logs example
+## Logs 
 
-Initial attempts to create users (awilso718 and awils) were unsuccessful. After running PyCharm as Administrator and granting system permissions,
-the script executed successfully on Windows 10
+Displays accounts that were created, deleted, disabled and re-enabled.
 
 <img width="1000" alt="image" src="https://i.imgur.com/Hj13etH.png">
 
