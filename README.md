@@ -1,26 +1,52 @@
-# User Account Management
-Created a python script which creates, deletes and modifies user accounts.
+# 🧑‍💻 User Account Management Automation Script
 
-# Overview
+## Overview
+This project automates **local user account management tasks on Windows systems** using Python.  
+It simulates key responsibilities of an **IT Support Specialist / Applications Analyst**, such as creating, disabling, and removing user accounts while maintaining detailed logs for accountability.
 
-This Python script automates local user account management tasks on Windows systems. It provides a menu-driven interface for creating, deleting, 
-enabling, disabling, and listing user accounts. The script is especially useful for system administrators who want to streamline user account management.
+## Features
+- ✅ Create new local user accounts  
+- ❌ Delete existing users  
+- 🚫 Disable and 🔓 Enable accounts  
+- 📜 List all local users  
+- 🧾 Logs all actions to a file (`user_account_manager.log`)  
 
+## Tools & Technologies
+- **Language:** Python 3.x  
+- **Modules:** `os`, `subprocess`, `logging`  
+- **Platform:** Windows 10/11 (Run as Administrator)
 
-# Features
+## Relevance to IT Support / Applications Analyst Role
+User lifecycle management is a core part of IT operations.  
+This project demonstrates:
+- Automation of repetitive onboarding/offboarding tasks  
+- Basic permission and account control  
+- Logging and auditing of administrative actions  
 
-Create User: Create a new local user account with a specified password.
+## Usage
+1. Clone the repository  
+2. Open an elevated PowerShell window  
+3. Navigate to the project folder  
+4. Run the script:
+   ```bash
+   python user_account_manager.py
 
-Delete User: Remove an existing local user account.
+## Example Output
 
-List Users: Display all local user accounts.
+[2025-10-25 14:03:10] Created user: jdoe
+[2025-10-25 14:05:42] Disabled user: ataylor
 
-Disable User: Disable a specified user account.
+## Future Enhancements
 
-Enable User: Re-enable a disabled user account.
+Integrate with Active Directory for domain-wide management
 
-Logging: All actions are logged to user_account_manager.log for audit purposes.
+Add bulk import/export via CSV
 
+Include password reset and group management features
+
+---
+
+## Screenshots
 ---
 
 # Create User
@@ -65,7 +91,11 @@ The first three entries reflect my attempts in creating new users awilso718 and 
 I closed the PyCharm application, on the desktop I right clicked on the PyCharm icon and selected run as administrator, and gave permission for the application to make system changes. 
 then script began to work on my Windows 10 operating system.
 
-
 <img width="1000" alt="image" src="https://i.imgur.com/Hj13etH.png">
+
+## License
+
+## MIT License – for educational and professional portfolio use.
+
 
 
